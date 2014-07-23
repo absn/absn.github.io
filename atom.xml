@@ -4,7 +4,7 @@
   <title><![CDATA[Absn OctoPress Blogs]]></title>
   <link href="http://absn.github.io/atom.xml" rel="self"/>
   <link href="http://absn.github.io/"/>
-  <updated>2014-07-23T10:37:05-04:00</updated>
+  <updated>2014-07-23T10:43:24-04:00</updated>
   <id>http://absn.github.io/</id>
   <author>
     <name><![CDATA[absn]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[first post absn]]></title>
+    <link href="http://absn.github.io/blog/2014/07/23/first-post-absn/"/>
+    <updated>2014-07-23T10:41:44-04:00</updated>
+    <id>http://absn.github.io/blog/2014/07/23/first-post-absn</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[second post]]></title>
